@@ -1,3 +1,4 @@
+const expressLayouts = require('express-ejs-layouts');
 // app.js — reemplaza el Hello World
 require('dotenv').config();
 const express      = require('express');
